@@ -3,11 +3,14 @@ This is a portfolio demonstrating achievement of the learning goals associated w
 
 ## Overview 
 
-Name: Ronen Reouveni
-SUID: 631270747
-Number: (858)-245-2128
-Email: rreouven@syr.edu 
-Program: Masters in Applied Data Science
+Name: Ronen Reouveni <br/>
+SUID: 631270747 <br/>
+Number: (858)-245-2128 <br/>
+Email: rreouven@syr.edu <br/>
+Program: Masters in Applied Data Science <br/>
+
+
+## Table of Contents 
 
 
 
