@@ -15,7 +15,6 @@ Program: Masters in Applied Data Science <br/>
 #### [Profesional Resume](https://github.com/RonenReouveni/resume/blob/main/ronen_reouveni_resume%20(1).pdf)
 
 
-#### [Written Paper](https://github.com/RonenReouveni/written_portfolio/blob/main/ronen_reouveni_portfolio_draft2.pdf)
-
+#### [Written Paper](https://github.com/RonenReouveni/written_portfolio/blob/95ceedb1998da0210a7c8131129f56f5d92e9155/ronen_reouveni_portfolio_draft2.pdf)
 
 
