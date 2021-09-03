@@ -18,3 +18,5 @@ Program: Masters in Applied Data Science <br/>
 ### [Written Paper](https://github.com/RonenReouveni/written_portfolio/blob/95ceedb1998da0210a7c8131129f56f5d92e9155/ronen_reouveni_portfolio_draft2.pdf)
 
 
+### [IST 664 - Natural Language Processing](https://github.com/RonenReouveni/RottenTomatoe) - Analysis of Rotten Tomatoe reviews
+
