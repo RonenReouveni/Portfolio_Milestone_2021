@@ -20,3 +20,5 @@ Program: Masters in Applied Data Science <br/>
 
 ### [IST 664 - Natural Language Processing](https://github.com/RonenReouveni/RottenTomatoe) - Analysis of Rotten Tomatoe reviews
 
+### [IST 652 - Scripting for Data Analysis](https://github.com/RonenReouveni/TripAdvisor) - Web Scraping Trip Advisor Hotel Reivews + ML
+
