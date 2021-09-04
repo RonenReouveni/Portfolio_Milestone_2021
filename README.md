@@ -34,6 +34,6 @@ Program: Masters in Applied Data Science <br/>
 
 #### [PDF of Presentation](https://drive.google.com/file/d/11yBMlxsN8w7Grt1aGpVvxqBGg9-B7sUE/view?usp=sharing)
 
-#### [Video Presentation](https://drive.google.com/file/d/1XBgKYU_X9rij2WJfMuViMBiCJiPiPcba/view?usp=sharing)
+#### [Video Presentation](https://drive.google.com/file/d/1XBgKYU_X9rij2WJfMuViMBiCJiPiPcba/view?usp=sharing) - Suggest downloading to view
 
 #### [.ppt Presentation](https://github.com/RonenReouveni/presentation/blob/0256f6866acc26d3ee8d02d0d5f7d1e197969c23/ronen_reouveni_presentation_ppt.pptx)
