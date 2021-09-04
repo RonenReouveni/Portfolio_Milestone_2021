@@ -29,3 +29,11 @@ Program: Masters in Applied Data Science <br/>
 #### [IST 718 - Big Data Analytics](https://github.com/RonenReouveni/ZipCodes) - Housing Data: Predicting Housing Returns with LSTM's
 
 #### [IST 687 - Applied Data Science](https://github.com/RonenReouveni/BiasInML) - Bias in Machine Learning: Ethics
+
+### Presentation Documents 
+
+#### [PDF of Presentation](https://drive.google.com/file/d/11yBMlxsN8w7Grt1aGpVvxqBGg9-B7sUE/view?usp=sharing)
+
+#### [Video Presentation](https://drive.google.com/file/d/1XBgKYU_X9rij2WJfMuViMBiCJiPiPcba/view?usp=sharing)
+
+#### [.ppt Presentation](https://github.com/RonenReouveni/presentation/blob/0256f6866acc26d3ee8d02d0d5f7d1e197969c23/ronen_reouveni_presentation_ppt.pptx)
