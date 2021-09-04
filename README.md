@@ -21,3 +21,9 @@ Program: Masters in Applied Data Science <br/>
 ### [IST 652 - Scripting for Data Analysis](https://github.com/RonenReouveni/TripAdvisor) - Web Scraping Trip Advisor Hotel Reivews + ML
 
 ### [IST 718 - Big Data Analytics](https://github.com/RonenReouveni/chest_x_ray) - Chest X rays: Computer Vision and Transfer Learning
+
+### [IST 718 - Big Data Analytics](https://github.com/RonenReouveni/fashionMnist) - Fashion MNIST: Crushing Accuracy with CNN's
+
+### [IST 718 - Big Data Analytics](https://github.com/RonenReouveni/ZipCodes) - Housing Data: Predicting Housing Returns with LSTM's
+
+### [IST 687 - Applied Data Science](https://github.com/RonenReouveni/BiasInML) - Bias in Machine Learning: Ethics
